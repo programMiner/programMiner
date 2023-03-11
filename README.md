@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-**programMiner/programMiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hey, I'm progMiner, an iranina teenager who loves coding with python and tensorflow
 
 - 🔭 I’m currently working on python
 - 🌱 I’m currently learning js
